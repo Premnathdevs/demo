@@ -10,4 +10,3 @@ if (palindrom(st)):
 else:
     print("it is not palindrom" )
       
-# hello world
